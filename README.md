@@ -1,16 +1,9 @@
-# navigator_arguments
+# README
 
-A new Flutter project.
+Flutterの画面遷移（Navigator 1.0）の基本と画面間での値の受け渡しのサンプルコードです。
 
-## Getting Started
+## 内容
 
-This project is a starting point for a Flutter application.
+画面遷移元と遷移先の２つのカウンターページで相互にカウント値の受け渡しをしています。
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![sample](sample.gif "サンプル")
